@@ -1,6 +1,6 @@
 class MyClass {
     add(x,y)  {
-        return x / y * z; 
+        return x + y; 
     }
 }
 var classInstance = new MyClass();
