@@ -4,4 +4,4 @@ class MyClass {
     }
 }
 var classInstance = new MyClass();
-console.log(classInstance.formula(23, 34, 2));
+console.log("The output of 23 multiplied by 34 and then divided by 2 is " + classInstance.formula(23, 34, 2) + ".");
